@@ -3,9 +3,9 @@
 ## 🔖 Informations:
 
   📒 **Discord Raid Tool.**
-    📜 ***Tool developed in 2 days.**
-    📜 **106 Lines of Code.** ***(Without Space = 89)***
-    📜 **I would like to inform you when to install our Tool, confirm the Conditions of Use.**
+  📜 ***Tool developed in 2 days.**
+  📜 **106 Lines of Code.** ***(Without Space = 89)***
+  📜 **I would like to inform you when to install our Tool, confirm the Conditions of Use.**
 
 ### 🧧 Options (FREE):
 
@@ -26,9 +26,9 @@
 ## 📚 Instruction:
 
   📘 ***1*** **- Launch** `setup.bat` **Normally Done.** *(If it's not Done pls follow the next Intruction.)*
-    📖 ***2*** **- Open CMD in the File and type** `pip install -r requirements.txt` **&** `python free_version.py`
-      📖 ***3*** **- Right click on free_version after open** `setup.bat` **and go** *Open with:* **and put Python 3.12**
-        📖 ***3.5*** **- If 3 not work, launch** `startme.bat` **&** `launch_free_version.cmd` 
+  📖 ***2*** **- Open CMD in the File and type** `pip install -r requirements.txt` **&** `python free_version.py`
+  📖 ***3*** **- Right click on free_version after open** `setup.bat` **and go** *Open with:* **and put Python 3.12**
+  📖 ***3.5*** **- If 3 not work, launch** `startme.bat` **&** `launch_free_version.cmd` 
   
   ***If you really can't launch the Tool, please create a Support Ticket in our Discord.***
 
